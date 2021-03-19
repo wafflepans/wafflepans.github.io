@@ -1,6 +1,6 @@
 # wafflepans.github.io
 
-1. cd to the folder directory (e.g. <path>/zaloraaldowebscraper)
+1. cd to the folder directory (e.g. 'path'/zaloraaldowebscraper)
 
 2. run the following command: 'docker build -t python-zaws .'
 
